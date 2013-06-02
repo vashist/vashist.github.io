@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://vashist.github.io/atom.xml" rel="self"/>
   <link href="http://vashist.github.io/"/>
-  <updated>2013-06-01T20:51:40+05:30</updated>
+  <updated>2013-06-02T17:42:02+05:30</updated>
   <id>http://vashist.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,6 +12,110 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Ruby]]></title>
+    <link href="http://vashist.github.io/blog/2013/06/02/ruby/"/>
+    <updated>2013-06-02T17:36:00+05:30</updated>
+    <id>http://vashist.github.io/blog/2013/06/02/ruby</id>
+    <content type="html"><![CDATA[<p>Here you will find pointers to manuals, tutorials and references that will come in handy when you feel like coding in Ruby.
+Getting Started</p>
+
+<p>Try Ruby!</p>
+
+<pre><code>An interactive tutorial that lets you try out Ruby right in your browser. This 15-minute tutorial is aimed at beginners who want to get a feeling of the language.
+</code></pre>
+
+<p>Ruby Koans</p>
+
+<pre><code>The Koans walk you along the path to enlightenment in order to learn Ruby. The goal is to learn the Ruby language, syntax, structure, and some common functions and libraries. We also teach you culture.
+</code></pre>
+
+<p>RubyMonk</p>
+
+<pre><code>Discover Ruby idioms, learn lessons and solve problems, all in your browser!
+</code></pre>
+
+<p>Hackety Hack</p>
+
+<pre><code>"The little coder’s starter kit". A fun and easy way to learn about programming (through Ruby) using the Shoes GUI Toolkit.
+</code></pre>
+
+<p>Why’s (Poignant) Guide to Ruby</p>
+
+<pre><code>An unconventional but interesting book that will teach you Ruby through stories, wit, and comics. Originally created by why the lucky stiff, this guide remains a classic for Ruby learners.
+</code></pre>
+
+<p>Ruby in Twenty Minutes</p>
+
+<pre><code>A nice tutorial covering the basics of Ruby. From start to finish it shouldn’t take you more than twenty minutes.
+</code></pre>
+
+<p>Ruby from Other Languages</p>
+
+<pre><code>Coming to Ruby from another language? Whether it’s C, C++, Java, Perl, PHP, or Python, this article has you covered!
+</code></pre>
+
+<p>Learning Ruby</p>
+
+<pre><code>A thorough collection of Ruby study notes for those who are new to the language and in search of a solid introduction to Ruby’s concepts and constructs.
+</code></pre>
+
+<p>Ruby Essentials</p>
+
+<pre><code>Ruby Essentials is a free on-line book designed to provide a concise and easy to follow guide to learning Ruby.
+</code></pre>
+
+<p>Learn to Program</p>
+
+<pre><code>A wonderful little tutorial by Chris Pine for programming newbies. If you don’t know how to program, start here.
+</code></pre>
+
+<p>Manuals</p>
+
+<p>Programming Ruby</p>
+
+<pre><code>The seminal work on Ruby in English, this first edition of the Pragmatic Programmers’ book is available for free online.
+</code></pre>
+
+<p>Ruby User’s Guide</p>
+
+<pre><code>Translated from the original Japanese version written by Yukihiro Matsumoto (the creator of Ruby), this version, by Goto Kentaro and Mark Slagell is nice overview of many aspects of the Ruby language.
+</code></pre>
+
+<p>The Ruby Programming Wikibook</p>
+
+<pre><code>A free online manual with beginner and intermediate content plus a thorough language reference.
+</code></pre>
+
+<p>Reference Documentation</p>
+
+<p>Ruby Core Reference</p>
+
+<pre><code>Pulled straight from the source code using RDoc, this reference work documents all of the core classes and modules (like String, Array, Symbol, etc…).
+</code></pre>
+
+<p>Ruby Standard Library Reference</p>
+
+<pre><code>Also pulled from the source code using RDoc, this reference work documents the standard library.
+</code></pre>
+
+<p>RubyDoc.info</p>
+
+<pre><code>The one-stop web site for reference documentation about Ruby gems and GitHub-hosted Ruby projects.
+</code></pre>
+
+<p>Rails Searchable API Doc</p>
+
+<pre><code>Rails and Ruby documentation with smart searching.
+</code></pre>
+
+<p>APIdock</p>
+
+<pre><code>Ruby, Rails and RSpec documentation with users’ notes. 
+</code></pre>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[New Post]]></title>
