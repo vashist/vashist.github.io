@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://vashist.github.io/atom.xml" rel="self"/>
   <link href="http://vashist.github.io/"/>
-  <updated>2013-06-02T17:42:02+05:30</updated>
+  <updated>2013-06-02T17:50:55+05:30</updated>
   <id>http://vashist.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -18,7 +18,8 @@
     <link href="http://vashist.github.io/blog/2013/06/02/ruby/"/>
     <updated>2013-06-02T17:36:00+05:30</updated>
     <id>http://vashist.github.io/blog/2013/06/02/ruby</id>
-    <content type="html"><![CDATA[<p>Here you will find pointers to manuals, tutorials and references that will come in handy when you feel like coding in Ruby.
+    <content type="html"><![CDATA[<p><img src="http://sauceio.com/wp-content/uploads/2013/05/ruby.png">
+Here you will find pointers to manuals, tutorials and references that will come in handy when you feel like coding in Ruby.
 Getting Started</p>
 
 <p>Try Ruby!</p>
