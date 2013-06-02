@@ -3,5 +3,52 @@ layout: post
 title: "Ruby"
 date: 2013-06-02 17:36
 comments: true
-categories: 
+categories:
+Author:  Vashist 
 ---
+
+Here you will find pointers to manuals, tutorials and references that will come in handy when you feel like coding in Ruby.
+Getting Started
+
+Try Ruby!
+    An interactive tutorial that lets you try out Ruby right in your browser. This 15-minute tutorial is aimed at beginners who want to get a feeling of the language.
+Ruby Koans
+    The Koans walk you along the path to enlightenment in order to learn Ruby. The goal is to learn the Ruby language, syntax, structure, and some common functions and libraries. We also teach you culture.
+RubyMonk
+    Discover Ruby idioms, learn lessons and solve problems, all in your browser!
+Hackety Hack
+    "The little coder’s starter kit". A fun and easy way to learn about programming (through Ruby) using the Shoes GUI Toolkit.
+Why’s (Poignant) Guide to Ruby
+    An unconventional but interesting book that will teach you Ruby through stories, wit, and comics. Originally created by why the lucky stiff, this guide remains a classic for Ruby learners.
+Ruby in Twenty Minutes
+    A nice tutorial covering the basics of Ruby. From start to finish it shouldn’t take you more than twenty minutes.
+Ruby from Other Languages
+    Coming to Ruby from another language? Whether it’s C, C++, Java, Perl, PHP, or Python, this article has you covered!
+Learning Ruby
+    A thorough collection of Ruby study notes for those who are new to the language and in search of a solid introduction to Ruby’s concepts and constructs.
+Ruby Essentials
+    Ruby Essentials is a free on-line book designed to provide a concise and easy to follow guide to learning Ruby.
+Learn to Program
+    A wonderful little tutorial by Chris Pine for programming newbies. If you don’t know how to program, start here.
+
+Manuals
+
+Programming Ruby
+    The seminal work on Ruby in English, this first edition of the Pragmatic Programmers’ book is available for free online.
+Ruby User’s Guide
+    Translated from the original Japanese version written by Yukihiro Matsumoto (the creator of Ruby), this version, by Goto Kentaro and Mark Slagell is nice overview of many aspects of the Ruby language.
+The Ruby Programming Wikibook
+    A free online manual with beginner and intermediate content plus a thorough language reference.
+
+Reference Documentation
+
+Ruby Core Reference
+    Pulled straight from the source code using RDoc, this reference work documents all of the core classes and modules (like String, Array, Symbol, etc…).
+Ruby Standard Library Reference
+    Also pulled from the source code using RDoc, this reference work documents the standard library.
+RubyDoc.info
+    The one-stop web site for reference documentation about Ruby gems and GitHub-hosted Ruby projects.
+Rails Searchable API Doc
+    Rails and Ruby documentation with smart searching.
+APIdock
+    Ruby, Rails and RSpec documentation with users’ notes. 
