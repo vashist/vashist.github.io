@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Octopress Blog]]></title>
+  <link href="http://vashist.github.io/atom.xml" rel="self"/>
+  <link href="http://vashist.github.io/"/>
+  <updated>2013-06-02T18:31:22+05:30</updated>
+  <id>http://vashist.github.io/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Ruby]]></title>
+    <link href="http://vashist.github.io/blog/2013/06/02/ruby/"/>
+    <updated>2013-06-02T17:36:00+05:30</updated>
+    <id>http://vashist.github.io/blog/2013/06/02/ruby</id>
+    <content type="html"><![CDATA[<p><img src="http://conteudo.imasters.com.br/8150/ruby-logo-justRuby.png"></p>
+
+<p>The Ideals of Ruby’s Creator:</p>
+
+<p>Ruby is a language of careful balance. Its creator, Yukihiro “Matz” Matsumoto, blended parts of his favorite languages (Perl, Smalltalk, Eiffel, Ada, and Lisp) to form a new language that balanced functional programming with imperative programming.</p>
+
+<p>He has often said that he is “trying to make Ruby natural, not simple,” in a way that mirrors life.</p>
+
+<p>Building on this, he adds:</p>
+
+<p>Ruby is simple in appearance, but is very complex inside, just like our human body1.</p>
+
+<p>About Ruby’s Growth:</p>
+
+<p>Since its public release in 1995, Ruby has drawn devoted coders worldwide. In 2006, Ruby achieved mass acceptance. With active user groups formed in the world’s major cities and Ruby-related conferences filled to capacity.</p>
+
+<p><img src="http://gmane.org/plot-rate.php?group=gmane.comp.lang.ruby.general&width=320&height=160&title=Ruby-Talk+Activity"></p>
+
+<p>Ruby-Talk, the primary mailing list for discussion of the Ruby language, climbed to an average of 200 messages per day in 2006. It has dropped in recent years as the size of the community pushed discussion from one central list into many smaller groups.</p>
+
+<p>The TIOBE index, which measures the growth of programming languages, ranks Ruby as #9 among programming languages worldwide. Much of the growth is attributed to the popularity of software written in Ruby, particularly the Ruby on Rails web framework2.</p>
+
+<p>Ruby is also totally free. Not only free of charge, but also free to use, copy, modify, and distribute.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[New Post]]></title>
+    <link href="http://vashist.github.io/blog/2013/06/01/new-post/"/>
+    <updated>2013-06-01T20:20:00+05:30</updated>
+    <id>http://vashist.github.io/blog/2013/06/01/new-post</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+</feed>
