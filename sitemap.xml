@@ -2,22 +2,30 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://vashist.github.io/blog/2013/06/01/new-post/</loc>
-        <lastmod>2013-06-01T20:39:32+05:30</lastmod>
+        <lastmod>2013-06-12T14:52:45+05:30</lastmod>
     </url>
     <url>
         <loc>http://vashist.github.io/blog/2013/06/02/ruby/</loc>
-        <lastmod>2013-06-02T18:27:40+05:30</lastmod>
+        <lastmod>2013-06-12T14:52:45+05:30</lastmod>
+    </url>
+    <url>
+        <loc>http://vashist.github.io/blog/2013/06/11/configuring-d-link/</loc>
+        <lastmod>2013-06-12T14:52:45+05:30</lastmod>
+    </url>
+    <url>
+        <loc>http://vashist.github.io/blog/2013/06/12/d-link-configuration/</loc>
+        <lastmod>2013-06-12T14:58:16+05:30</lastmod>
     </url>
     <url>
         <loc>http://vashist.github.io/</loc>
-        <lastmod>2013-06-02T18:27:40+05:30</lastmod>
+        <lastmod>2013-06-12T14:58:16+05:30</lastmod>
     </url>
     <url>
         <loc>http://vashist.github.io/robots.txt</loc>
-        <lastmod>2013-06-01T20:39:32+05:30</lastmod>
+        <lastmod>2013-06-12T14:52:45+05:30</lastmod>
     </url>
     <url>
         <loc>http://vashist.github.io/blog/archives/</loc>
-        <lastmod>2013-06-02T18:27:40+05:30</lastmod>
+        <lastmod>2013-06-12T14:58:16+05:30</lastmod>
     </url>
 </urlset>

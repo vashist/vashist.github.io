@@ -1,17 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[All about Technology]]></title>
   <link href="http://vashist.github.io/atom.xml" rel="self"/>
   <link href="http://vashist.github.io/"/>
-  <updated>2013-06-02T18:31:22+05:30</updated>
+  <updated>2013-06-21T21:29:10+05:30</updated>
   <id>http://vashist.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Vashist]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[D-Link configuration]]></title>
+    <link href="http://vashist.github.io/blog/2013/06/12/d-link-configuration/"/>
+    <updated>2013-06-12T14:58:00+05:30</updated>
+    <id>http://vashist.github.io/blog/2013/06/12/d-link-configuration</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Configuring D-Link]]></title>
+    <link href="http://vashist.github.io/blog/2013/06/11/configuring-d-link/"/>
+    <updated>2013-06-11T20:39:00+05:30</updated>
+    <id>http://vashist.github.io/blog/2013/06/11/configuring-d-link</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Ruby]]></title>
@@ -22,7 +40,7 @@
 
 <p>The Ideals of Ruby’s Creator:</p>
 
-<p>Ruby is a language of careful balance. Its creator, Yukihiro “Matz” Matsumoto, blended parts of his favorite languages (Perl, Smalltalk, Eiffel, Ada, and Lisp) to form a new language that balanced functional programming with imperative programming.</p>
+<p>Ruby is a language of careful balance. Its creator, Yukihiro &lsquo;Matz&rsquo; Matsumoto, blended parts of his favorite languages (Perl, Smalltalk, Eiffel, Ada, and Lisp) to form a new language that balanced functional programming with imperative programming.</p>
 
 <p>He has often said that he is “trying to make Ruby natural, not simple,” in a way that mirrors life.</p>
 
